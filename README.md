@@ -34,7 +34,7 @@ Also, Malnutrition is directly influenced on the psychological & mental developm
 -	Name of Independent variables are <b>Maternal Occupation</b>, <b>Mother’s Education</b>, <b>Household Wealth Status</b>, <b>Women’s Purchase Empowerment</b> and <b>Residence</b>. 
 -	Count of Dependent variables = <b>3</b>
 -	Name of Dependent variables are <b>Stunted</b>, <b>Wasted</b> and <b>Underweight</b>.
--	Dataset is not attached with the repository, to get the dataset contact me via Gmail. (<b>umerarshad369@gmail.com</b>)
+-	Dataset is not attached with the repository, to get the dataset contact me via Gmail. (<b>umer.work.96@gmail.com</b>)
 -	After getting dataset, <b>malnutrition_1.ipynb</b> file runs.
 -	Open <b>malnutrition_1.html</b> file to see the detailed description & better understanding of every step of work.
 - Among different models that are used <b>Logistic Regression</b> gives the maximum accuracy of model = 89 approximately.
